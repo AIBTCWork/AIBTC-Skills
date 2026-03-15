@@ -1,14 +1,14 @@
 ---
 name: aibtc
 description: >
-  Manage aibtc-worker automation tasks. Use this skill when the user wants to start,
+  Manage aibtc-worker automation tasks. Use this skill when the user wants to run,
   stop, or check the status of the aibtc worker. Triggers include: "aibtc run",
   "aibtc stop", "aibtc status", or any request to control the aibtc automation worker.
 ---
 
 # AIBTC Skill
 
-Automate and monitor aibtc-worker processes for BTC-related automation tasks.
+Automate and monitor aibtc-worker processes for AIBTC-related automation tasks.
 
 ## Quick Reference
 
@@ -17,7 +17,7 @@ Automate and monitor aibtc-worker processes for BTC-related automation tasks.
 
 | Command | Description |
 |---------|-------------|
-| `aibtc run {address}` | Start aibtc worker with the specified address |
+| `aibtc run {address}` | Start aibtc worker with the specified BSC address |
 | `aibtc stop` | Stop the aibtc worker |
 | `aibtc status` | Check current status of the aibtc worker |
 
