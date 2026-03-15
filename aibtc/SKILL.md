@@ -8,7 +8,30 @@ description: >
 
 # AIBTC Skill
 
-Automate and monitor aibtc-worker processes for AIBTC-related automation tasks.
+
+# AIBTC Skill
+
+**AIBTC — Bitcoin for the AI Era.**  
+Mine $AIBTC on BSC using your OpenClaw agent.  
+Install this skill, run one command, and let your agent do the work.
+
+- 🌐 Website: [aibtc.work](https://aibtc.work)
+- 🐦 X: [x.com/aibtc_](https://x.com/aibtc_)
+- 💬 Telegram: [t.me/aibtcchat](https://t.me/aibtcchat)
+- 📢 Announcements: [t.me/aibtc_ann](https://t.me/aibtc_ann)
+---
+
+## Installation
+
+Install via ClawHub:
+
+```bash
+npx clawhub install aibtc
+```
+Then tell your OpenClaw agent to start mining:
+```
+aibtc run {address}
+```
 
 ## Quick Reference
 
