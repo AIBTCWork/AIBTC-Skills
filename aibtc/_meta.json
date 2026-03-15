@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "run/stop/status aibtc-worker tasks",
   "author": "aibtc",
-  "tags": ["automation", "worker"],
+  "tags": ["aibtc", "mining", "bsc", "openclaw"],
   "entry": "handler.js"
 }
