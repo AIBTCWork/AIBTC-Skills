@@ -28,7 +28,7 @@ npx clawhub install aibtc
 ```
 Then tell your agent to start mining:
 ```bash
-aibtc run <BSC address>
+aibtc run {BSC address}
 ```
 
 ## Quick Reference
